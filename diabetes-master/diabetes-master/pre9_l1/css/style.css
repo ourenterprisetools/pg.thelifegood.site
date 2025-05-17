@@ -48,6 +48,10 @@ main#container {
 .subtext b {
   color: #696969;
 }
+
+h1{
+    text-align: center  ;
+}
 .checks {
   list-style: none;
   padding: 0;
@@ -98,6 +102,9 @@ main#container {
 .watch-button:hover {
   background: #0056b3;
 }
+span{
+    color: red;
+}
 
 .mobile-only {
   display: none;
@@ -113,7 +120,7 @@ footer {
 }
 
 footer a {
-  color: white;
+  color: rgb(12, 13, 68);
   font-size: 1.2rem;
   margin: 0 10px;
 }
